@@ -16,3 +16,9 @@ print(list)
 for i in list:
   print(i)
  #using for loop
+
+food = "Pizza"
+
+while True:
+    print(f"My Favorite Food is {food}")
+#It will continiously print!
